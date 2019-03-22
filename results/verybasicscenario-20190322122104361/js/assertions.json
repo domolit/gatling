@@ -1,0 +1,10 @@
+{
+  "simulation": "tutorial.basic.VeryBasicScenario",
+  "simulationId": "verybasicscenario",
+  "start": 1553257264361,
+  "description": "",
+  "scenarios": ["Very basic scenario"],
+  "assertions": [
+
+  ]
+}

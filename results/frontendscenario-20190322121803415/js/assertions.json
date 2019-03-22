@@ -1,0 +1,10 @@
+{
+  "simulation": "tutorial.FrontendScenario",
+  "simulationId": "frontendscenario",
+  "start": 1553257083415,
+  "description": "",
+  "scenarios": ["Check frontend"],
+  "assertions": [
+
+  ]
+}
