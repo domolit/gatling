@@ -1,5 +1,10 @@
-###https://github.com/gatling/gatling-maven-plugin-demo.git###
-###https://www.scala-lang.org/download/###
+***Basic repo***
+
+https://github.com/MARudnicki/gatling-demo.git
+
+***Download SCALA***
+
+*https://www.scala-lang.org/download/*
 
 **verify if java is installed**
 java -version
